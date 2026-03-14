@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "怪物さん",
+  "base_artist": "Ken Hirai",
+  "createdAt": "2026-03-14T20:06:56.534708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "怪物さん",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/01_怪物さん_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "怪物さん",
+      "artist": "Ken Hirai",
+      "has_synced": false,
+      "path": "select/02_怪物さん_Ken_Hirai.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "怪物さん",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/03_怪物さん_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "怪物さん",
+      "artist": "Ken Hirai, Aimyon",
+      "has_synced": true,
+      "path": "select/04_怪物さん_Ken_Hirai,_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "怪物さん (feat. Aimyon)",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/05_怪物さん_(feat._Aimyon)_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "怪物さん",
+      "artist": "Hirai Ken",
+      "has_synced": false,
+      "path": "select/06_怪物さん_Hirai_Ken.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "怪物さん feat.あいみょん",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_01_怪物さん_feat.あいみょん_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "怪物さん feat.あいみょん",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_02_怪物さん_feat.あいみょん_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "怪物さん feat.あいみょん",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_03_怪物さん_feat.あいみょん_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "怪物さん feat.あいみょん",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_04_怪物さん_feat.あいみょん_平井_堅.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "怪物さん feat_あいみょん",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_05_怪物さん_feat_あいみょん_平井_堅.txt"
+    }
+  ]
+}
